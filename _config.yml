@@ -1,0 +1,9 @@
+title: Your Name
+description: >- 
+  A short tagline or purpose of your site.
+baseurl: "" 
+url: "https://your-username.github.io"
+theme: minima
+
+# Optional: social links
+github_username: your-username
