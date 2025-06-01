@@ -1,7 +1,6 @@
 ---
-layout: home
+layout: single
 title: About
-permalink: /about/
 ---
 
 Sorry! Under Construction!
