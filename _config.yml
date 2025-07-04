@@ -12,7 +12,7 @@
 
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -119,6 +119,7 @@ author:
   location         : "Berkeley, CA"
   email            : "jtoubes@berkeley.edu"
   github           : "jack2bs"
+  linkedin         : "jack-toubes-b359b4211"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -141,7 +142,18 @@ author:
 
 # Site Footer
 footer:
+  email            : "jtoubes@berkeley.edu"
+  github           : "jack2bs"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jtoubes@berkeley.edu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jack2bs"
+    - label: "Linkedin"
+      icon: fab fa-fw fa-linkedin
+      url: "https://linkedin.com/in/jack-toubes-b359b4211"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
