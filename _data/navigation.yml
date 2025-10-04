@@ -4,6 +4,8 @@ main:
     url: publications
   - title: "CV"
     url: assets/Jack_CV.pdf
+  - title: "Extras"
+    url: extras
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
