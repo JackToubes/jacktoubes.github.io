@@ -2,8 +2,8 @@
 main:
   - title: "Publications"
     url: publications
-  - title: "CV"
-    url: assets/Jack_CV.pdf
+  # - title: "CV"
+  #   url: assets/Jack_CV.pdf
   - title: "Extras"
     url: extras
   # - title: "Sample Posts"
